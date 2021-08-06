@@ -6,7 +6,7 @@ sources = [
           #'https://github.com/YinTokey/Egen.git',
           ]
 
-project_name = 'UserModule-master'
+project_name = 'MySpecs'
 podspec_file_name = 'UserModule.podspec'
 
 
