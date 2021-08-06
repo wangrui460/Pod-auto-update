@@ -70,4 +70,4 @@ You can add the dependent sources in the `sources` array, but you don't need the
 
 **3.** 打开终端，cd 到这个脚本文件所在目录中，执行 `python auto.py`，即可开始小版本自动升级。如果你的 Pod 已经配置正确，并且之前有过手动输入指令进行升级的经历，那么脚本应该是能成功运行的。
 
-![如何发布CocoaPods公开库以及新建私有Pod Specs索引库](https://lele8446.top/2016/06/06/%E5%A6%82%E4%BD%95%E5%8F%91%E5%B8%83CocoaPods%E5%85%AC%E5%BC%80%E5%BA%93%E4%BB%A5%E5%8F%8A%E6%96%B0%E5%BB%BA%E7%A7%81%E6%9C%89Pod%20Specs%E7%B4%A2%E5%BC%95%E5%BA%93/)
+[如何发布CocoaPods公开库以及新建私有Pod Specs索引库](https://lele8446.top/2016/06/06/%E5%A6%82%E4%BD%95%E5%8F%91%E5%B8%83CocoaPods%E5%85%AC%E5%BC%80%E5%BA%93%E4%BB%A5%E5%8F%8A%E6%96%B0%E5%BB%BA%E7%A7%81%E6%9C%89Pod%20Specs%E7%B4%A2%E5%BC%95%E5%BA%93/)
